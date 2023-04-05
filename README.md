@@ -32,8 +32,11 @@ DistilBERT is a smaller, distilled version of the popular BERT (Bidirectional En
 ### Possible ways to improve the performance of the DistilBERT model:
 
 •	Data augmentation: Augmenting the training data with additional examples can also improve the model's performance. This can be done by adding noise, perturbing the data, or creating synthetic examples to increase the diversity of the training data.
+
 •	Larger architecture: Increasing the size of the architecture can also improve the model's performance. This can be done by adding more layers or increasing the number of parameters in the model.
+
 •	Ensemble methods: Combining multiple DistilBERT models or models of different architectures can improve performance. This can be done by training several models on the same task and then aggregating their predictions.
+
 •	Domain-specific pre-training: Pre-training the model on a domain-specific corpus of text can improve its performance on tasks related to that domain. For example, pre-training the model on medical texts can improve its performance on medical NLP tasks.
 
 
